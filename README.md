@@ -9,7 +9,7 @@ I’m an **aspiring software developer** currently preparing for **ICSE Board 20
 
 - 📘 Learning and practicing **Java, Python, HTML, CSS, JavaScript**
 - 💻 Building meaningful projects with clean, maintainable code
-- 💡 Exploring data structures, algorithms, and real world patterns
+- 💡 Exploring data structures, algorithms, and real-world programming concepts
 - 🌱 Currently focused on backend and full-stack fundamentals
 
 ---
@@ -20,7 +20,7 @@ I’m an **aspiring software developer** currently preparing for **ICSE Board 20
 A beginner-friendly Java project that prints a simple message — perfect for understanding how Java works.
 
 📌 Languages: Java  
-📌 Repo: [hello-world](https://github.com/rijuCodes/hello-world)  
+📌 Repo: https://github.com/Code-Mode-Road/hello-world  
 📌 Description: Simple Java program demonstrating basic syntax.
 
 ---
@@ -29,7 +29,7 @@ A beginner-friendly Java project that prints a simple message — perfect for un
 A basic personal website showing lightweight HTML/CSS pages and project details.
 
 📌 Languages: HTML, CSS  
-📌 Repo: [personal-portfolio](https://github.com/rijuCodes/personal-portfolio)  
+📌 Repo: https://github.com/Code-Mode-Road/personal-portfolio  
 📌 Description: A clean, responsive static web portfolio template.
 
 ---
@@ -38,19 +38,25 @@ A basic personal website showing lightweight HTML/CSS pages and project details.
 
 - **Languages:** Java, Python, JavaScript  
 - **Frontend:** HTML, CSS  
-- **Tools:** Git, GitHub
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
 ## 📫 Contact
 
-- 📌 Email: `your.email@example.com`  
-- 🔗 LinkedIn: *(add link when available)*  
-- 🌐 Portfolio: *(add link if you build a live site)*
+- 📌 GitHub: https://github.com/Code-Mode-Road  
+- 📧 Email: your.email@example.com *(add later if you want)*  
+- 🔗 LinkedIn: *(add later)*
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Learning Journey
+
+📊 I use this GitHub to track my learning progress, projects, and experiments.  
+I’m always improving and building new things step by step. 🚀
+
+Thanks for visiting my profile! 😊
+
 
 📊 I track my learning progress and projects here.  
 Happy to connect and collaborate! 😊
